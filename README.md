@@ -1,2 +1,2 @@
 # Basic-Level-Editor--c++
-made this level editor in 6h
+made this level editor
