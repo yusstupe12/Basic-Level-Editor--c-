@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LevelEditor_c++/LevelEditor_c++.vcxproj" Id="8f41b744-1d94-4f2e-93e5-f2b4af1e1b3d" />
+</Solution>
