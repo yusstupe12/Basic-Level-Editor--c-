@@ -1,19 +1,18 @@
 #pragma once
+#include "raylib.h"
+#include <map>
+#include <utility>
+class Player;
 
 class Grid {
 public:
-	Grid();
-	void initialize();
-	void draw();
-	void Update();
-	bool istilitedSolid(int row, int col);
-	int getcolsize();
-	int getrows();
-	int getcols();
-	bool start;
-	int grid[24][43];
+    Grid();
+    void draw(Camera2D& camera);
+    void Update(Player& player, Camera2D& camera);
+    bool istilitedSolid(int row, int col);
+    int getcolsize();
+    bool start;
 private:
-	int NumRows;
-	int NumCols;
-	int cellsize;
+    std::map<std::pair<int, int>, int> tiles; 
+    int cellsize;
 };

@@ -1,9 +1,10 @@
-﻿  main.cpp
-C:\Users\ASUS\source\repos\LevelEditor_c++\LevelEditor_c++\main.cpp(19,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\ASUS\source\repos\LevelEditor_c++\LevelEditor_c++\main.cpp(19,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\ASUS\source\repos\LevelEditor_c++\LevelEditor_c++\main.cpp(45,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\ASUS\source\repos\LevelEditor_c++\LevelEditor_c++\main.cpp(48,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\ASUS\source\repos\LevelEditor_c++\LevelEditor_c++\main.cpp(48,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+﻿  grid.cpp
+  main.cpp
+C:\Users\ASUS\source\repos\LevelEditor_c++\LevelEditor_c++\main.cpp(22,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\LevelEditor_c++\LevelEditor_c++\main.cpp(22,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\LevelEditor_c++\LevelEditor_c++\main.cpp(64,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\LevelEditor_c++\LevelEditor_c++\main.cpp(64,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
   LevelEditor_c++.vcxproj -> C:\Users\ASUS\source\repos\LevelEditor_c++\x64\Debug\LevelEditor_c++.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
